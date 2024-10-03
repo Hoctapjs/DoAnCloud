@@ -1,0 +1,31 @@
+﻿@model IEnumerable<KhachHang>
+@using DOAN_CLOUND.Models
+<h2>Danh sách khách hàng</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Họ Tên</th>
+            <th>Giới Tính</th>
+            <th>Chức Vụ</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.HoTen</td>
+                <td>@item.GioiTinh</td>
+                <td>@item.ChucVu</td>
+                <td>
+                    @Html.ActionLink("Details", "Details", new { id = item.Id }) |
+                    @Html.ActionLink("Edit", "Edit", new { id = item.Id }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.Id })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@Html.ActionLink("Create New", "Create")
