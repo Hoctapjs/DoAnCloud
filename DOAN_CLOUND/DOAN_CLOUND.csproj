@@ -172,6 +172,9 @@
     <Content Include="libmongocrypt.dylib" />
     <None Include="packages.config" />
     <Content Include="Views\KhachHang\Index.cshtml" />
+    <Content Include="Views\KhachHang\Details.cshtml" />
+    <Content Include="Views\KhachHang\Create.cshtml" />
+    <Content Include="Views\KhachHang\Edit.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
