@@ -43,5 +43,6 @@ namespace DOAN_CLOUND.Models
         {
             _khachHangCollection.DeleteOne(khach => khach.Id == id);
         }
+        // commet test
     }
 }
