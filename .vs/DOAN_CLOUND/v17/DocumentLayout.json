@@ -3,40 +3,172 @@
   "WorkspaceRootPath": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\doan_clound\\controllers\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|solutionrelative:doan_clound\\controllers\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|d:\\doan_loud_github\\doancloud\\doan_clound\\models\\billrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|solutionrelative:doan_clound\\models\\billrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\doan_clound\\views\\khachhang\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|solutionrelative:doan_clound\\views\\khachhang\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\doan_clound\\models\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|solutionrelative:doan_clound\\models\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\doan_clound\\models\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|solutionrelative:doan_clound\\models\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\doan_clound\\views\\home\\dangnhap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|solutionrelative:doan_clound\\views\\home\\dangnhap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|d:\\doan_loud_github\\doancloud\\doan_clound\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\doan_clound\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|solutionrelative:doan_clound\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\doan_clound\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|solutionrelative:doan_clound\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\doan_clound\\models\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|solutionrelative:doan_clound\\models\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\doan_clound\\models\\categoriesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|solutionrelative:doan_clound\\models\\categoriesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\doan_clound\\models\\productsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|solutionrelative:doan_clound\\models\\productsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\doan_clound\\views\\home\\index_bill.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|solutionrelative:doan_clound\\views\\home\\index_bill.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\doan_clound\\views\\home\\blog_single.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|solutionrelative:doan_clound\\views\\home\\blog_single.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\doan_clound\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|solutionrelative:doan_clound\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\doan_clound\\views\\home\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|solutionrelative:doan_clound\\views\\home\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\doan_clound\\views\\home\\menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|solutionrelative:doan_clound\\views\\home\\menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\doan_clound\\views\\home\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|solutionrelative:doan_clound\\views\\home\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\doan_clound\\views\\home\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|solutionrelative:doan_clound\\views\\home\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\doan_clound\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|solutionrelative:doan_clound\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\doan_clound\\views\\home\\blog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|solutionrelative:doan_clound\\views\\home\\blog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\doan_clound\\views\\home\\services.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|solutionrelative:doan_clound\\views\\home\\services.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\doan_clound\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|solutionrelative:doan_clound\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\doan_clound\\views\\home\\create_user.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|solutionrelative:doan_clound\\views\\home\\create_user.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\doan_clound\\views\\home\\create_bill.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|solutionrelative:doan_clound\\views\\home\\create_bill.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\doan_clound\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|solutionrelative:doan_clound\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\doan_clound\\views\\khachhang\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|solutionrelative:doan_clound\\views\\khachhang\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\doan_clound\\views\\home\\index_user.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|solutionrelative:doan_clound\\views\\home\\index_user.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\doan_clound\\views\\khachhang\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|solutionrelative:doan_clound\\views\\khachhang\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\doan_clound\\views\\home\\edit_user.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|solutionrelative:doan_clound\\views\\home\\edit_user.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\doan_clound\\views\\khachhang\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|solutionrelative:doan_clound\\views\\khachhang\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\doan_clound\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|solutionrelative:doan_clound\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\doan_clound\\models\\khachhangrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|solutionrelative:doan_clound\\models\\khachhangrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\doan_clound\\views\\shared\\_layoutpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|solutionrelative:doan_clound\\views\\shared\\_layoutpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\doan_clound\\views\\khachhang\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|solutionrelative:doan_clound\\views\\khachhang\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\doan_clound\\views\\home\\edit_bill.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|solutionrelative:doan_clound\\views\\home\\edit_bill.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\doan_clound\\views\\home\\delete_bill.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|solutionrelative:doan_clound\\views\\home\\delete_bill.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\doan_clound\\views\\home\\delete_user.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|solutionrelative:doan_clound\\views\\home\\delete_user.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\doan_clound\\views\\home\\create_products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|solutionrelative:doan_clound\\views\\home\\create_products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\doan_clound\\views\\home\\edit_product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|solutionrelative:doan_clound\\views\\home\\edit_product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\doan_clound\\views\\home\\index_category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|solutionrelative:doan_clound\\views\\home\\index_category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\doan_clound\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|solutionrelative:doan_clound\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\doan_clound\\views\\home\\editcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|solutionrelative:doan_clound\\views\\home\\editcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\doan_clound\\views\\home\\createcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|solutionrelative:doan_clound\\views\\home\\createcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\doan_clound\\views\\home\\index_products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|solutionrelative:doan_clound\\views\\home\\index_products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\doan_clound\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|solutionrelative:doan_clound\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\doan_clound\\views\\home\\details_user.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|solutionrelative:doan_clound\\views\\home\\details_user.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\doan_clound\\views\\home\\deletecategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|solutionrelative:doan_clound\\views\\home\\deletecategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\doan_clound\\views\\home\\details_products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|solutionrelative:doan_clound\\views\\home\\details_products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\doan_clound\\views\\home\\details_caterory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|solutionrelative:doan_clound\\views\\home\\details_caterory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\doan_clound\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|solutionrelative:doan_clound\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4E6CF83B-0528-4B59-A41A-7806D47CF3A6}|DOAN_CLOUND\\DOAN_CLOUND.csproj|D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\doan_clound\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,123 +182,520 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "KhachHang.cs",
-              "DocumentMoniker": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Models\\KhachHang.cs",
-              "RelativeDocumentMoniker": "DOAN_CLOUND\\Models\\KhachHang.cs",
-              "ToolTip": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Models\\KhachHang.cs",
-              "RelativeToolTip": "DOAN_CLOUND\\Models\\KhachHang.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T11:54:30.536Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "KhachHangController.cs",
-              "DocumentMoniker": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Controllers\\KhachHangController.cs",
-              "RelativeDocumentMoniker": "DOAN_CLOUND\\Controllers\\KhachHangController.cs",
-              "ToolTip": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Controllers\\KhachHangController.cs",
-              "RelativeToolTip": "DOAN_CLOUND\\Controllers\\KhachHangController.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAuwF0AAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T11:57:16.566Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Views\\KhachHang\\Create.cshtml",
-              "RelativeDocumentMoniker": "DOAN_CLOUND\\Views\\KhachHang\\Create.cshtml",
-              "ToolTip": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Views\\KhachHang\\Create.cshtml",
-              "RelativeToolTip": "DOAN_CLOUND\\Views\\KhachHang\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAjAAAA",
+              "Title": "index.cshtml",
+              "DocumentMoniker": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Views\\Home\\index.cshtml",
+              "RelativeDocumentMoniker": "DOAN_CLOUND\\Views\\Home\\index.cshtml",
+              "ToolTip": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Views\\Home\\index.cshtml",
+              "RelativeToolTip": "DOAN_CLOUND\\Views\\Home\\index.cshtml",
+              "ViewState": "AQIAABwAAAAAAAAAAAAwwDcAAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-03T11:55:43.286Z"
+              "WhenOpened": "2024-10-06T12:51:37.17Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Views\\KhachHang\\Index.cshtml",
-              "RelativeDocumentMoniker": "DOAN_CLOUND\\Views\\KhachHang\\Index.cshtml",
-              "ToolTip": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Views\\KhachHang\\Index.cshtml",
-              "RelativeToolTip": "DOAN_CLOUND\\Views\\KhachHang\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAkAAAA",
+              "DocumentIndex": 2,
+              "Title": "DangNhap.cshtml",
+              "DocumentMoniker": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Views\\Home\\DangNhap.cshtml",
+              "RelativeDocumentMoniker": "DOAN_CLOUND\\Views\\Home\\DangNhap.cshtml",
+              "ToolTip": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Views\\Home\\DangNhap.cshtml",
+              "RelativeToolTip": "DOAN_CLOUND\\Views\\Home\\DangNhap.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACEAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-28T11:58:34.344Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "KhachHangRepository.cs",
-              "DocumentMoniker": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Models\\KhachHangRepository.cs",
-              "RelativeDocumentMoniker": "DOAN_CLOUND\\Models\\KhachHangRepository.cs",
-              "ToolTip": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Models\\KhachHangRepository.cs",
-              "RelativeToolTip": "DOAN_CLOUND\\Models\\KhachHangRepository.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAzwBoAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T12:02:00.149Z"
+              "WhenOpened": "2024-10-06T12:12:38.995Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DOAN_CLOUND\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DOAN_CLOUND\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwCEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T11:57:16.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductsRepository.cs",
+              "DocumentMoniker": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Models\\ProductsRepository.cs",
+              "RelativeDocumentMoniker": "DOAN_CLOUND\\Models\\ProductsRepository.cs",
+              "ToolTip": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Models\\ProductsRepository.cs",
+              "RelativeToolTip": "DOAN_CLOUND\\Models\\ProductsRepository.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAUwCoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T11:30:34.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BillRepository.cs",
+              "DocumentMoniker": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Models\\BillRepository.cs",
+              "RelativeDocumentMoniker": "DOAN_CLOUND\\Models\\BillRepository.cs",
+              "ToolTip": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Models\\BillRepository.cs",
+              "RelativeToolTip": "DOAN_CLOUND\\Models\\BillRepository.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAkwA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T06:55:49.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bill.cs",
+              "DocumentMoniker": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Models\\Bill.cs",
+              "RelativeDocumentMoniker": "DOAN_CLOUND\\Models\\Bill.cs",
+              "ToolTip": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Models\\Bill.cs",
+              "RelativeToolTip": "DOAN_CLOUND\\Models\\Bill.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T06:53:30.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoriesRepository.cs",
+              "DocumentMoniker": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Models\\CategoriesRepository.cs",
+              "RelativeDocumentMoniker": "DOAN_CLOUND\\Models\\CategoriesRepository.cs",
+              "ToolTip": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Models\\CategoriesRepository.cs",
+              "RelativeToolTip": "DOAN_CLOUND\\Models\\CategoriesRepository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAxwB0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T12:14:52.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsersRepository.cs",
+              "DocumentMoniker": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Models\\UsersRepository.cs",
+              "RelativeDocumentMoniker": "DOAN_CLOUND\\Models\\UsersRepository.cs",
+              "ToolTip": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Models\\UsersRepository.cs",
+              "RelativeToolTip": "DOAN_CLOUND\\Models\\UsersRepository.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAADsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T11:45:00.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index_BILL.cshtml",
+              "DocumentMoniker": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Views\\Home\\Index_BILL.cshtml",
+              "RelativeDocumentMoniker": "DOAN_CLOUND\\Views\\Home\\Index_BILL.cshtml",
+              "ToolTip": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Views\\Home\\Index_BILL.cshtml",
+              "RelativeToolTip": "DOAN_CLOUND\\Views\\Home\\Index_BILL.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABEAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T07:06:15.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "shop.cshtml",
+              "DocumentMoniker": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Views\\Home\\shop.cshtml",
+              "RelativeDocumentMoniker": "DOAN_CLOUND\\Views\\Home\\shop.cshtml",
+              "ToolTip": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Views\\Home\\shop.cshtml",
+              "RelativeToolTip": "DOAN_CLOUND\\Views\\Home\\shop.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T12:43:00.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "menu.cshtml",
+              "DocumentMoniker": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Views\\Home\\menu.cshtml",
+              "RelativeDocumentMoniker": "DOAN_CLOUND\\Views\\Home\\menu.cshtml",
+              "ToolTip": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Views\\Home\\menu.cshtml",
+              "RelativeToolTip": "DOAN_CLOUND\\Views\\Home\\menu.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T12:56:59.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "blog_single.cshtml",
+              "DocumentMoniker": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Views\\Home\\blog_single.cshtml",
+              "RelativeDocumentMoniker": "DOAN_CLOUND\\Views\\Home\\blog_single.cshtml",
+              "ToolTip": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Views\\Home\\blog_single.cshtml",
+              "RelativeToolTip": "DOAN_CLOUND\\Views\\Home\\blog_single.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T12:57:16.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "about.cshtml",
+              "DocumentMoniker": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Views\\Home\\about.cshtml",
+              "RelativeDocumentMoniker": "DOAN_CLOUND\\Views\\Home\\about.cshtml",
+              "ToolTip": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Views\\Home\\about.cshtml",
+              "RelativeToolTip": "DOAN_CLOUND\\Views\\Home\\about.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T12:57:28.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "contact.cshtml",
+              "DocumentMoniker": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Views\\Home\\contact.cshtml",
+              "RelativeDocumentMoniker": "DOAN_CLOUND\\Views\\Home\\contact.cshtml",
+              "ToolTip": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Views\\Home\\contact.cshtml",
+              "RelativeToolTip": "DOAN_CLOUND\\Views\\Home\\contact.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACYAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T12:57:49.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "cart.cshtml",
+              "DocumentMoniker": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Views\\Home\\cart.cshtml",
+              "RelativeDocumentMoniker": "DOAN_CLOUND\\Views\\Home\\cart.cshtml",
+              "ToolTip": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Views\\Home\\cart.cshtml",
+              "RelativeToolTip": "DOAN_CLOUND\\Views\\Home\\cart.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T12:57:54.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "checkout.cshtml",
+              "DocumentMoniker": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Views\\Home\\checkout.cshtml",
+              "RelativeDocumentMoniker": "DOAN_CLOUND\\Views\\Home\\checkout.cshtml",
+              "ToolTip": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Views\\Home\\checkout.cshtml",
+              "RelativeToolTip": "DOAN_CLOUND\\Views\\Home\\checkout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T12:57:57.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "blog.cshtml",
+              "DocumentMoniker": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Views\\Home\\blog.cshtml",
+              "RelativeDocumentMoniker": "DOAN_CLOUND\\Views\\Home\\blog.cshtml",
+              "ToolTip": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Views\\Home\\blog.cshtml",
+              "RelativeToolTip": "DOAN_CLOUND\\Views\\Home\\blog.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACYAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T12:57:17.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "services.cshtml",
+              "DocumentMoniker": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Views\\Home\\services.cshtml",
+              "RelativeDocumentMoniker": "DOAN_CLOUND\\Views\\Home\\services.cshtml",
+              "ToolTip": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Views\\Home\\services.cshtml",
+              "RelativeToolTip": "DOAN_CLOUND\\Views\\Home\\services.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T12:57:09.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Users.cs",
+              "DocumentMoniker": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "DOAN_CLOUND\\Models\\Users.cs",
+              "ToolTip": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Models\\Users.cs",
+              "RelativeToolTip": "DOAN_CLOUND\\Models\\Users.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAA5wCMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T11:54:30.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create_User.cshtml",
+              "DocumentMoniker": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Views\\Home\\Create_User.cshtml",
+              "RelativeDocumentMoniker": "DOAN_CLOUND\\Views\\Home\\Create_User.cshtml",
+              "ToolTip": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Views\\Home\\Create_User.cshtml",
+              "RelativeToolTip": "DOAN_CLOUND\\Views\\Home\\Create_User.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T05:12:19.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Create_BILL.cshtml",
+              "DocumentMoniker": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Views\\Home\\Create_BILL.cshtml",
+              "RelativeDocumentMoniker": "DOAN_CLOUND\\Views\\Home\\Create_BILL.cshtml",
+              "ToolTip": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Views\\Home\\Create_BILL.cshtml",
+              "RelativeToolTip": "DOAN_CLOUND\\Views\\Home\\Create_BILL.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAMkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T09:11:37.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index_User.cshtml",
+              "DocumentMoniker": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Views\\Home\\Index_User.cshtml",
+              "RelativeDocumentMoniker": "DOAN_CLOUND\\Views\\Home\\Index_User.cshtml",
+              "ToolTip": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Views\\Home\\Index_User.cshtml",
+              "RelativeToolTip": "DOAN_CLOUND\\Views\\Home\\Index_User.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-05T11:27:16.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Edit_User.cshtml",
+              "DocumentMoniker": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Views\\Home\\Edit_User.cshtml",
+              "RelativeDocumentMoniker": "DOAN_CLOUND\\Views\\Home\\Edit_User.cshtml",
+              "ToolTip": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Views\\Home\\Edit_User.cshtml",
+              "RelativeToolTip": "DOAN_CLOUND\\Views\\Home\\Edit_User.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T05:16:21.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "RouteConfig.cs",
               "DocumentMoniker": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\App_Start\\RouteConfig.cs",
               "RelativeDocumentMoniker": "DOAN_CLOUND\\App_Start\\RouteConfig.cs",
               "ToolTip": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\App_Start\\RouteConfig.cs",
               "RelativeToolTip": "DOAN_CLOUND\\App_Start\\RouteConfig.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAOAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T11:39:38.407Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-28T11:39:38.407Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 24,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "DOAN_CLOUND\\Models\\Category.cs",
+              "ToolTip": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Models\\Category.cs",
+              "RelativeToolTip": "DOAN_CLOUND\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T12:14:11.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_LayoutPage.cshtml",
+              "DocumentMoniker": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Views\\Shared\\_LayoutPage.cshtml",
+              "RelativeDocumentMoniker": "DOAN_CLOUND\\Views\\Shared\\_LayoutPage.cshtml",
+              "ToolTip": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Views\\Shared\\_LayoutPage.cshtml",
+              "RelativeToolTip": "DOAN_CLOUND\\Views\\Shared\\_LayoutPage.cshtml",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAYwP0AAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-05T11:23:24.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Edit_BILL.cshtml",
+              "DocumentMoniker": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Views\\Home\\Edit_BILL.cshtml",
+              "RelativeDocumentMoniker": "DOAN_CLOUND\\Views\\Home\\Edit_BILL.cshtml",
+              "ToolTip": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Views\\Home\\Edit_BILL.cshtml",
+              "RelativeToolTip": "DOAN_CLOUND\\Views\\Home\\Edit_BILL.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T09:53:39.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Delete_Bill.cshtml",
+              "DocumentMoniker": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Views\\Home\\Delete_Bill.cshtml",
+              "RelativeDocumentMoniker": "DOAN_CLOUND\\Views\\Home\\Delete_Bill.cshtml",
+              "ToolTip": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Views\\Home\\Delete_Bill.cshtml",
+              "RelativeToolTip": "DOAN_CLOUND\\Views\\Home\\Delete_Bill.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAC0AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T08:08:50.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Delete_User.cshtml",
+              "DocumentMoniker": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Views\\Home\\Delete_User.cshtml",
+              "RelativeDocumentMoniker": "DOAN_CLOUND\\Views\\Home\\Delete_User.cshtml",
+              "ToolTip": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Views\\Home\\Delete_User.cshtml",
+              "RelativeToolTip": "DOAN_CLOUND\\Views\\Home\\Delete_User.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T05:27:01.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Create_Products.cshtml",
+              "DocumentMoniker": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Views\\Home\\Create_Products.cshtml",
+              "RelativeDocumentMoniker": "DOAN_CLOUND\\Views\\Home\\Create_Products.cshtml",
+              "ToolTip": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Views\\Home\\Create_Products.cshtml",
+              "RelativeToolTip": "DOAN_CLOUND\\Views\\Home\\Create_Products.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAADMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-05T14:07:23.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Edit_Product.cshtml",
+              "DocumentMoniker": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Views\\Home\\Edit_Product.cshtml",
+              "RelativeDocumentMoniker": "DOAN_CLOUND\\Views\\Home\\Edit_Product.cshtml",
+              "ToolTip": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Views\\Home\\Edit_Product.cshtml",
+              "RelativeToolTip": "DOAN_CLOUND\\Views\\Home\\Edit_Product.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-05T14:24:56.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Index_Category.cshtml",
+              "DocumentMoniker": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Views\\Home\\Index_Category.cshtml",
+              "RelativeDocumentMoniker": "DOAN_CLOUND\\Views\\Home\\Index_Category.cshtml",
+              "ToolTip": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Views\\Home\\Index_Category.cshtml",
+              "RelativeToolTip": "DOAN_CLOUND\\Views\\Home\\Index_Category.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-05T12:19:46.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Products.cs",
+              "DocumentMoniker": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Models\\Products.cs",
+              "RelativeDocumentMoniker": "DOAN_CLOUND\\Models\\Products.cs",
+              "ToolTip": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Models\\Products.cs",
+              "RelativeToolTip": "DOAN_CLOUND\\Models\\Products.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T11:29:27.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "EditCategory.cshtml",
+              "DocumentMoniker": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Views\\Home\\EditCategory.cshtml",
+              "RelativeDocumentMoniker": "DOAN_CLOUND\\Views\\Home\\EditCategory.cshtml",
+              "ToolTip": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Views\\Home\\EditCategory.cshtml",
+              "RelativeToolTip": "DOAN_CLOUND\\Views\\Home\\EditCategory.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-05T13:27:54.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CreateCategory.cshtml",
+              "DocumentMoniker": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Views\\Home\\CreateCategory.cshtml",
+              "RelativeDocumentMoniker": "DOAN_CLOUND\\Views\\Home\\CreateCategory.cshtml",
+              "ToolTip": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Views\\Home\\CreateCategory.cshtml",
+              "RelativeToolTip": "DOAN_CLOUND\\Views\\Home\\CreateCategory.cshtml",
+              "ViewState": "AQIAABYAAAAAAAAAAAAYwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-05T12:49:43.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Index_Products.cshtml",
+              "DocumentMoniker": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Views\\Home\\Index_Products.cshtml",
+              "RelativeDocumentMoniker": "DOAN_CLOUND\\Views\\Home\\Index_Products.cshtml",
+              "ToolTip": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Views\\Home\\Index_Products.cshtml",
+              "RelativeToolTip": "DOAN_CLOUND\\Views\\Home\\Index_Products.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAuwBUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-05T11:48:14.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Views\\KhachHang\\Delete.cshtml",
-              "RelativeDocumentMoniker": "DOAN_CLOUND\\Views\\KhachHang\\Delete.cshtml",
-              "ToolTip": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Views\\KhachHang\\Delete.cshtml",
-              "RelativeToolTip": "DOAN_CLOUND\\Views\\KhachHang\\Delete.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "DocumentMoniker": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Views\\Home\\Delete.cshtml",
+              "RelativeDocumentMoniker": "DOAN_CLOUND\\Views\\Home\\Delete.cshtml",
+              "ToolTip": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Views\\Home\\Delete.cshtml",
+              "RelativeToolTip": "DOAN_CLOUND\\Views\\Home\\Delete.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-03T12:01:10.142Z"
+              "WhenOpened": "2024-10-05T14:16:05.159Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Views\\KhachHang\\Details.cshtml",
-              "RelativeDocumentMoniker": "DOAN_CLOUND\\Views\\KhachHang\\Details.cshtml",
-              "ToolTip": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Views\\KhachHang\\Details.cshtml",
-              "RelativeToolTip": "DOAN_CLOUND\\Views\\KhachHang\\Details.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAjAAAA",
+              "DocumentIndex": 37,
+              "Title": "Details_User.cshtml",
+              "DocumentMoniker": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Views\\Home\\Details_User.cshtml",
+              "RelativeDocumentMoniker": "DOAN_CLOUND\\Views\\Home\\Details_User.cshtml",
+              "ToolTip": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Views\\Home\\Details_User.cshtml",
+              "RelativeToolTip": "DOAN_CLOUND\\Views\\Home\\Details_User.cshtml",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAADAAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-03T11:53:36.196Z"
+              "WhenOpened": "2024-10-06T05:10:34.933Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Views\\KhachHang\\Edit.cshtml",
-              "RelativeDocumentMoniker": "DOAN_CLOUND\\Views\\KhachHang\\Edit.cshtml",
-              "ToolTip": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Views\\KhachHang\\Edit.cshtml",
-              "RelativeToolTip": "DOAN_CLOUND\\Views\\KhachHang\\Edit.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAOAAAA",
+              "DocumentIndex": 38,
+              "Title": "DeleteCategory.cshtml",
+              "DocumentMoniker": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Views\\Home\\DeleteCategory.cshtml",
+              "RelativeDocumentMoniker": "DOAN_CLOUND\\Views\\Home\\DeleteCategory.cshtml",
+              "ToolTip": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Views\\Home\\DeleteCategory.cshtml",
+              "RelativeToolTip": "DOAN_CLOUND\\Views\\Home\\DeleteCategory.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAuwAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-03T11:56:30.103Z"
+              "WhenOpened": "2024-10-05T13:05:36.161Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 39,
+              "Title": "Details_Products.cshtml",
+              "DocumentMoniker": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Views\\Home\\Details_Products.cshtml",
+              "RelativeDocumentMoniker": "DOAN_CLOUND\\Views\\Home\\Details_Products.cshtml",
+              "ToolTip": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Views\\Home\\Details_Products.cshtml",
+              "RelativeToolTip": "DOAN_CLOUND\\Views\\Home\\Details_Products.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-05T13:54:11.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Details_Caterory.cshtml",
+              "DocumentMoniker": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Views\\Home\\Details_Caterory.cshtml",
+              "RelativeDocumentMoniker": "DOAN_CLOUND\\Views\\Home\\Details_Caterory.cshtml",
+              "ToolTip": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Views\\Home\\Details_Caterory.cshtml",
+              "RelativeToolTip": "DOAN_CLOUND\\Views\\Home\\Details_Caterory.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-05T12:31:02.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Web.config",
+              "RelativeDocumentMoniker": "DOAN_CLOUND\\Web.config",
+              "ToolTip": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Web.config",
+              "RelativeToolTip": "DOAN_CLOUND\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-04T08:59:01.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
               "Title": "Global.asax.cs",
               "DocumentMoniker": "D:\\DOAN_LOUD_GITHUB\\DoAnCloud\\DOAN_CLOUND\\Global.asax.cs",
               "RelativeDocumentMoniker": "DOAN_CLOUND\\Global.asax.cs",
